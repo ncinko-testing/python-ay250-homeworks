@@ -173,6 +173,7 @@ def shutdown():
     return 'Server shutting down...'
    
 if __name__ == '__main__':
+    index()
     pass
     #app.run()
     #shutdown()
